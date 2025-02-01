@@ -22,7 +22,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear and delete functionality.
-- Responsive design.
 
 ## Files
 
